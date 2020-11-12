@@ -188,8 +188,8 @@ h4.teacher_two
 div#server
 {
 
-    width: 40%;
-    height: 280px;
+    width: 30%;
+    height: 140px;
     margin: auto;
     margin-top: 2%;
     padding-top: 1.2%;
@@ -197,6 +197,7 @@ div#server
     background-color: #FBFBFB;
     
 }
+
 
 p.server_paragrath
 {
